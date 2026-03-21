@@ -1,8 +1,4 @@
-# 常驻任务<Badge type="warning" text="常驻" />
-
-::: tip
-本文仅展示常驻活动信息。
-:::
+# 常驻活动<Badge type="warning" text="活动" />
 
 ## 启动/关闭游戏
 
